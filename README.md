@@ -26,13 +26,19 @@ Based off Discord's official blurple color palette, made to be darker.
 </details>
 
 ### BI-ifed Themes
-Based off the Bisexual flae, made to be darker.
+Based off the Bisexual flag, made to be darker.
 <details>
 <summary> BI-ifed </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/e81c3f1c-9b2a-4013-a9a4-0a6fa47932c2"/>
 </details>
 
-<details>
 <summary> BI-ifed V2 </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/1f9e4252-6ca5-4d82-863a-68c85ba97523"/>
+</details>
+
+### we are reasonable people Themes
+Based off the We Are Reasonable People album cover.
+<details>
+<summary> we are reasonable people </summary>
+	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/ae84c820-b1f0-47d9-8064-332caedfbb56"/>
 </details>
