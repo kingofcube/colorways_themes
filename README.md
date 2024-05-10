@@ -4,7 +4,11 @@ Custom Themes made for the Discord Plugin "DiscordColorways".
 ## Navigation
 work in progress...
 
-## Installation
+## Usage
+1. Copy the [colorways.json](https://github.com/kingofcube/colorways_themes/raw/main/colorways.json) link from this repo.
+2. Open Discord's Settings and go to "Settings" in the "Discord Colorways" category.
+3. Click "Add a source" and paste the link inside the textbox
+4. Click "Finish" and go to "Colorways" to see them.
 
 ## Themes
 ### Blurpified Themes
