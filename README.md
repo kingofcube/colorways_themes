@@ -41,9 +41,30 @@ Based off the Bisexual flag, made to be darker.
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/1f9e4252-6ca5-4d82-863a-68c85ba97523"/>
 </details>
 
-### we are reasonable people Themes
+### we are reasonable people
 Based off the We Are Reasonable People album cover.
 <details>
-<summary> we are reasonable people </summary>
+<summary> The theme itself. </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/ae84c820-b1f0-47d9-8064-332caedfbb56"/>
+</details>
+
+### Bunny
+Based off cbani's Pyoncord Theme.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/8249f450-35b8-4525-a9d3-ff29833ead0f"/>
+</details>
+
+### Resonable
+Based off the [Reasonable Colors](https://www.reasonable.work/colors/) palette.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/93998a6a-b570-4ba2-80dc-b03d556832c6"/>
+</details>
+
+### Hotdog Stand
+Based off the Hotdog Stand theme from Microsoft's Windows 3.1.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/3501727f-cd98-42a1-a02d-428ec6c52e2c"/>
 </details>
