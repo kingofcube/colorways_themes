@@ -36,6 +36,7 @@ Based off the Bisexual flag, made to be darker.
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/e81c3f1c-9b2a-4013-a9a4-0a6fa47932c2"/>
 </details>
 
+<details>
 <summary> BI-ifed V2 </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/1f9e4252-6ca5-4d82-863a-68c85ba97523"/>
 </details>
