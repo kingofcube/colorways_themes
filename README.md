@@ -1,13 +1,10 @@
-# Colorways Themes
-Custom Themes made for the Discord Plugin "DiscordColorways".
-
-## Navigation
-work in progress...
+# Computer-Made Colorways!
+Custom Colorways made for the Discord Plugin "DiscordColorways".
 
 ## Usage
 1. Copy the [colorways.json](https://github.com/kingofcube/colorways_themes/raw/main/colorways.json) link from this repo.
-2. Open Discord's Settings and go to "Settings" in the "Discord Colorways" category.
-3. Click "Add a source" and paste the link inside the textbox
+2. Open Discord's Settings and go to "Sources" in the "Discord Colorways" category.
+3. Click the "Add" button and paste the link inside the textbox. (Name is optional.)
 4. Click "Finish" and go to "Colorways" to see them.
 
 ## Themes
@@ -67,4 +64,11 @@ Based off the Hotdog Stand theme from Microsoft's Windows 3.1.
 <details>
 <summary> The theme itself. </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/3501727f-cd98-42a1-a02d-428ec6c52e2c"/>
+</details>
+
+### Trans-ifed
+Based off the Transgender flag, made to be darker.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/37bcc0bf-7f4e-4ca0-82cb-f36d938af5f5"/>
 </details>
