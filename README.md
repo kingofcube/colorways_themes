@@ -2,8 +2,14 @@
 Custom Colorways made for the Discord Plugin "DiscordColorways".
 
 ## Usage
+### First Option (Recommended)
+1. Go to Discord's Settings and click on the "Store" button in the "Discord Colorways" category.
+2. Click on the download icon that inside a window with "Computer-Made Colorways".
+3. Go to "Colorways" to see them.
+
+### Second Option
 1. Copy the [colorways.json](https://github.com/kingofcube/colorways_themes/raw/main/colorways.json) link from this repo.
-2. Open Discord's Settings and go to "Sources" in the "Discord Colorways" category.
+2. Go to Discord's Settings and click on the "Sources" button in the "Discord Colorways" category.
 3. Click the "Add" button and paste the link inside the textbox. (Name is optional.)
 4. Click "Finish" and go to "Colorways" to see them.
 
