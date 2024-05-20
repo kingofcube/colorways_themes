@@ -78,3 +78,19 @@ Based off the Transgender flag, made to be darker.
 <summary> The theme itself. </summary>
 	<img src="https://github.com/kingofcube/colorways_themes/assets/138169081/37bcc0bf-7f4e-4ca0-82cb-f36d938af5f5"/>
 </details>
+
+
+### KayKay
+Based off kkcule's [KayKay](https://planetclue.com/kaykay/) OC color scheme, made to be darker.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/computermade-colorways/assets/138169081/57501444-a342-4e7a-9eef-2ac41472604b"/>
+</details>
+
+
+### Sonic 2
+Based off the Sonic 2 Title Card color scheme.
+<details>
+<summary> The theme itself. </summary>
+	<img src="https://github.com/kingofcube/computermade-colorways/assets/138169081/dfed2dd6-6d66-453c-9b61-1800853ae3a0"/>
+</details>
